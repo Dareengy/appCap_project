@@ -1,1 +1,1 @@
-# Interest Calculator App created using Flutter
+# Interest Calculator App created using Flutter.
